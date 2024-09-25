@@ -6,7 +6,7 @@ I am an upcoming graduate with a profound interest in technology and a dedicatio
 
 ## Objective
 
-I have a passion for cybersecurity, and I am now eager to start in this field.
+I have a passion for cybersecurity and technology, and I am now eager to start in this field.
 
 ## Skills
 
