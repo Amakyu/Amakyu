@@ -6,7 +6,7 @@ I am an upcoming graduate with a profound interest in technology and a dedicatio
 
 ## Objective
 
-I have a passion for cybersecurity, and I am now eager to start in this7 field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have a passion for cybersecurity, and I am now eager to start in this field.
 
 ## Skills
 
