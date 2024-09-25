@@ -12,6 +12,7 @@ I have a passion for cybersecurity and technology, and I am now eager to start i
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Mapping and Monitoring                        | <a href="https://github.com/Amakyu/Wireshark-and-Nmap">Wireshark and Nmap</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Amakyu/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -50,5 +51,6 @@ I have a passion for cybersecurity and technology, and I am now eager to start i
 </div>
 
 ## Projects
+- <a href="https://github.com/Amakyu/Wireshark-and-Nmap">Wireshark and Nmap</a>
 - <a href="https://github.com/Amakyu/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
