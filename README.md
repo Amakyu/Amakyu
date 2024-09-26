@@ -14,7 +14,7 @@ I have a passion for cybersecurity and technology, and I am now eager to start i
 |-----------------------------------------------|----------------------------|
 | Mapping and Monitoring                        | <a href="https://github.com/Amakyu/Wireshark-and-Nmap">Wireshark and Nmap</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Amakyu/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Amakyu/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
